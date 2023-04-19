@@ -33,6 +33,6 @@ def askForProduct():
     calculateTotalPrice(products)
     
 
-# Example usage
+# Example of usage
 askForProduct()
 print('Total Price:', totalPrice)
